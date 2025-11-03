@@ -1,6 +1,6 @@
 # AgenticAI-Enrollment
 
-Sample project: enrollment assistant that uses a placeholder eligibility check tool.
+Sample enrollment eligibility chatbot scaffold.
 
 Run (PowerShell):
 
@@ -9,3 +9,4 @@ Set-ExecutionPolicy -Scope Process -ExecutionPolicy RemoteSigned -Force
 .\venv\Scripts\Activate.ps1
 python examples\run_demo.py
 ```
+![CI](https://github.com/naveenambroise/AgenticAI-Enrollment/actions/workflows/ci.yml/badge.svg)
